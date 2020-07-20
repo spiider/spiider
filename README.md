@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![image](https://d.newsweek.com/en/full/823815/rick-morty-rest-ricklaxation.webp?w=737&f=e1ab7461859745fd4eaf0b2b5637409f "")
+
+
+
 <!--
 **spiider/spiider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
